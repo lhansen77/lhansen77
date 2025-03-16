@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lhansen77
 - 👀 I’m interested in learning as much as possible
-- 🌱 I’m currently learning Dats Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Projects from my school
 - 📫 How to reach me with respect that I am learning (lol)
 - 😄 Pronouns: She/Her
