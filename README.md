@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @lhansen77
-- 👀 I’m interested in learning as much as possible
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Projects from my school
-- 📫 How to reach me with respect that I am learning (lol)
-- 😄 Pronouns: She/Her
+- 👀 I’m interested in applying data science to uncover insights, optimize systems, and support decision-making across industries.
+- 🌱 I’m currently deepening my skills in predictive analytics, applied data science, and data  management using Python, SQL, and machine learning frameworks.
+- 💞️ I’m looking to collaborate on data science projects that involve machine learning, predictive analytics, or data visualization—especially those with real-world impact and cross-functional teams. 
+- 📫 💬 How to reach me:  
+🔗 LinkedIn: [Lisa Hansen](https://www.linkedin.com/in/lisa-hansen-839379217)  
+📧 Email: lisahansen77@gmail.com 
+-  😄 Pronouns: She/Her
 - ⚡ Fun fact: I LOVE DOGS
 
 <!---
